@@ -46,12 +46,12 @@ The project requires at minimum 512MB memory to run. Please ensure you have corr
 
 Clone from coding.net:
 ```
-git clone git@github.com:pixelorz/webide.git
+git clone git@github.com:coding/WebIDE.git
 ```
 
 Clone from github.com:
 ```
-git clone git@github.com:Coding/WebIDE.git
+git clone git@github.com:pixelorz/webide.git
 ```
 
 Init and pull submodules:
